@@ -1,5 +1,2 @@
 # Hello world!
-# My name is eunseo.
-# I'm high school head.
-# I'm going to break my school someday.
-# Follow me and wait.
+https://padong.github.io/2026_shinseong_AI_Class/
